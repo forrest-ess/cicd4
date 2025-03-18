@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <Container className="md-container">
       <Head>
-        <title>ReactJS with react-bootstrap</title>
+        <title>hello ReactJS with react-bootstrap</title>
         <link rel="icon" href="/favicon-32x32.png" />
       </Head>
       <Container>
